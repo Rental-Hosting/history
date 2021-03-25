@@ -1,8 +1,8 @@
 {
-  "name": "history",
-  "version": "4.9.0",
+  "name": "@rentalhosting/history",
+  "version": "4.9.1",
   "description": "Manage session history with JavaScript",
-  "repository": "ReactTraining/history",
+  "repository": "Rental-Hosting/history",
   "license": "MIT",
   "author": "Michael Jackson",
   "main": "index.js",
